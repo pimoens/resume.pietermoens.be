@@ -1,0 +1,9 @@
+Title: Event-Driven Dashboarding and Feedback for Improved Event Detection in Predictive Maintenance Applications
+Author: Pieter Moens, Sander Vanden Hautte, Dieter De Paepe, Bram Steenwinckel, Stijn Verstichel, Steven Vandekerckhove, Femke Ongenae, Sofie Van Hoecke
+Year: 2021
+Journal: Applied Sciences
+Publisher: MDPI
+DOI: https://doi.org/10.3390/app112110371
+Keywords: Anomaly Detection; Fault Detection; Dynamic Dashboards; Semantic Reasoning; User Feedback
+
+Manufacturers can plan predictive maintenance by remotely monitoring their assets. However, to extract the necessary insights from monitoring data, they often lack sufficiently large datasets that are labeled by human experts. We suggest combining knowledge-driven and unsupervised data-driven approaches to tackle this issue. Additionally, we present a dynamic dashboard that automatically visualizes detected events using semantic reasoning, assisting experts in the revision and correction of event labels. Captured label corrections are immediately fed back to the adaptive event detectors, improving their performance. To the best of our knowledge, we are the first to demonstrate the synergy of knowledge-driven detectors, data-driven detectors and automatic dashboards capturing feedback. This synergy allows a transition from detecting only unlabeled events, such as anomalies, at the start to detecting labeled events, such as faults, with meaningful descriptions. We demonstrate all work using a ventilation unit monitoring use case. This approach enables manufacturers to collect labeled data for refining event classification techniques with reduced human labeling effort.
