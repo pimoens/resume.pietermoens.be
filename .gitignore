@@ -147,4 +147,4 @@ cython_debug/
 /helm/standard/
 
 # Pelican
-website/output/
+src/output/
