@@ -7,7 +7,7 @@ class Resume(Content):
 
 
 class About(Content):
-    mandatory_properties = ('name',)
+    mandatory_properties = ('name', 'location')
     default_status = 'published'
     default_template = 'resume/about'
 

@@ -13,9 +13,11 @@
                     <span class="font-bold text-amber-700">{{ ' '.join(resume.about.name.split(' ')[1:]) }}</span>
                 </div>
                 <div class="flex flex-wrap gap-x-2 uppercase font-medium text-xl text-gray-500">
+                {% if resume.about.location %}
                     <span><i class="fa-solid fa-location-pin"></i>
-                        {{ resume.about.city }}, {{ resume.about.country }}
+                        {{ resume.about.location }}
                     </span>
+                {% endif %}
                 {% if resume.about.birthday %}
                     ·
                     <span>°

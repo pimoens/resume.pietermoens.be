@@ -1,6 +1,5 @@
-# Pieter Moens | Personal Resume
+# Pieter Moens | [Personal Resume](https://resume.pietermoens.be)
 
-### Technology stack
+Static website created with [Pelican](https://getpelican.com/). Web design using [TailwindCSS](https://tailwindcss.com/)
 
-- Pelican
-- TailwindCSS
+Using my custom [Pelican Resume plugin]() and [Pelican Resume theme]()

@@ -1,6 +1,5 @@
 Name: Pieter Moens
-City: Ghent
-Country: Belgium
+Location: Ghent, Belgium
 Birthday: Aug 7, 1995
 Phone:
 Email: pieter@pietermoens.be
