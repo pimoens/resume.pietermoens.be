@@ -1,0 +1,6 @@
+[submodule "src/plugins/pelican-resume-plugin"]
+	path = src/plugins/pelican-resume-plugin
+	url = https://github.com/pimoens/pelican-resume-plugin
+[submodule "src/themes/pelican-resume-plugin"]
+	path = src/themes/pelican-resume-plugin
+	url = https://github.com/pimoens/pelican-resume-plugin

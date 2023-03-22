@@ -5,10 +5,10 @@ SITEURL = ''
 FAVICON = ''
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['resume', 'tailwindcss']
+PLUGINS = ['pelican-resume-plugin', 'tailwindcss']
 
 PATH = 'content'
-THEME = 'themes/resume'
+THEME = 'themes/pelican-resume-theme'
 STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/Brussels'
