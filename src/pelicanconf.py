@@ -25,8 +25,6 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = ()
 
-PRIMARY_COLOR = 'amber-700'
-
 # Social widget
 SOCIAL = (('linkedin', 'LinkedIn', 'https://www.linkedin.com/in/pieter-moens-pimoens/'),
           ('google', 'Google Scholar', 'https://scholar.google.com/citations?user=R6y5jzUAAAAJ'),
