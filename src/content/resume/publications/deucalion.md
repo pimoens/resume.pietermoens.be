@@ -1,0 +1,9 @@
+Title: Edge Anomaly Detection Framework for AIOps in Cloud and IoT
+Author: Pieter Moens, Bavo Andriessen, Merlijn Sebrechts, Bruno Volckaert, Sofie Van Hoecke
+Year: 2023
+Journal: Proceedings of the 13th International Conference on Cloud Computing and Services Science - CLOSER
+Publisher: SciTePress
+DOI: https://doi.org/10.5220/0011838600003488
+Keywords: AIOps; Cloud Computing;  Internet of Things; Microservices; Anomaly Detection; Monitoring
+
+Artificial Intelligence for IT Operations (AIOps) addresses the rising complexity of cloud computing and Internet of Things by assisting DevOps engineers to monitor and maintain applications. Machine Learning is an essential part of AIOps, enabling it to perform Anomaly Detection and Root Cause Analysis. These techniques are often executed in centralized components, however, which requires transferring vast amounts of data to a central location. This increase in network traffic causes strain on the network and results in higher latency. This paper leverages edge computing to address this issue by deploying ML models closer to the monitored services, reducing the network overhead. This paper investigates two architectural approaches: a sidecar architecture and a federated architecture, and highlights their advantages and shortcomings in different scenarios. Taking this into account, it proposes a framework that orchestrates the deployment and management of distributed edge ML models. Additionally, the paper introduces a Python library to assist data scientists during the development of AIOps techniques and concludes with a thorough evaluation of the resulting framework towards resource consumption and scalability. The results indicate up to 98.3% reduction in network usage depending on the configuration used while maintaining a minimal increase in resource usage at the edge.
