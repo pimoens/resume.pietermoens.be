@@ -1,4 +1,4 @@
-Title: Teaching Assistent
+Title: Teaching Assistant
 Type: vocational
 Institution: University of Ghent, Campus Kortijk
 Date: 2018-07-01
